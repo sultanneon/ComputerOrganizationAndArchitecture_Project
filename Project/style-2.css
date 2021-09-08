@@ -1,0 +1,35 @@
+/*for top*/
+   #ab {
+border: 3px solid #201772;
+border-radius: 5px;
+
+}
+/*for footer*/
+#a{
+	color: white;
+	background-color: black;
+}
+/*for course*/
+   #borderDemo {
+border: 3px solid #201772;
+border-radius: 5px;
+
+}
+/*for A-top*/
+    #ac {
+border: 3px solid #201772;
+border-radius: 5px;
+
+}
+/*for A-link*/
+ #ad {
+border: 3px solid #201772;
+border-radius: 5px;
+background-color: ;
+}
+/*for A-welcome*/
+    #ae {
+border: 3px solid #201772;
+border-radius: 5px;
+background-color: rgb(135, 206, 235);
+}

@@ -1,0 +1,73 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body
+{
+			background-image: url(Z-3.jpg);
+			background-repeat: no-repeat;
+			background-size: cover; 
+
+}
+.menu-bar
+{
+	background: #38449A;
+	text-align: center;
+}
+.menu-bar ul
+{
+	display: inline-flex;
+	list-style: none;
+}
+.menu-bar ul li
+{
+	width: 120px;
+	margin: 15px;
+	padding: 10px;
+	
+}
+.menu-bar ul li a
+{
+	text-decoration: none;
+	color: #fff;
+}
+
+
+
+/*for top*/
+   #ab {
+border: 3px solid #201772;
+border-radius: 5px;
+
+}
+/*for footer*/
+#a{
+	color: white;
+	background-color: black;
+}
+/*for course*/
+   #borderDemo {
+border: 3px solid #201772;
+border-radius: 5px;
+
+}
+/*for A-top*/
+    #ac {
+border: 3px solid #201772;
+border-radius: 5px;
+
+}
+/*for A-link*/
+ #ad {
+border: 3px solid #201772;
+border-radius: 5px;
+background-color: ;
+}
+/*for A-welcome*/
+    #ae {
+border: 3px solid #201772;
+border-radius: 5px;
+background-color: rgb(135, 206, 235);
+}
